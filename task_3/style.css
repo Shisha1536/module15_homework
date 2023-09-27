@@ -19,6 +19,7 @@
     border-color: aqua ;
 }
 .server {
+    display: block;
     text-align: end;
     color: blue;
 }
